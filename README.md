@@ -1,6 +1,6 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-![Last Commit](https://img.shields.io/github/last-commit/parammaan0511-web/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/parammaan0511/cse103-lab-LAB3)
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
@@ -50,7 +50,7 @@ cse103-lab-LAB3/
 
 ```bash
 
-git clone https://github.com/parammaan0511-web/cse103-lab-LAB3.git
+git clone https://github.com/parammaan0511/cse103-lab-LAB3.git
 
 cd cse103-lab-LAB3
 
