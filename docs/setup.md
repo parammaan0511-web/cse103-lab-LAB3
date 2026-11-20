@@ -6,7 +6,7 @@
 
 ## How to Run
 ```bash
-git clone <repo-url>
+git clone https://github.com/parammaan0511-web/cse103-lab-LAB3.git
 cd cse103-lab-LAB3
 python3 src/main.py
 ```
